@@ -4,6 +4,7 @@
    <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <PublishUrl>docs</PublishUrl>
     <TargetFramework>net5.0</TargetFramework>
+    <StaticWebAssetBasePath>animalmatch</StaticWebAssetBasePath>
   </PropertyGroup>
 
   <ItemGroup>
