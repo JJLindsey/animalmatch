@@ -1,10 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
-   <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <PublishUrl>docs</PublishUrl>
     <TargetFramework>net5.0</TargetFramework>
-    <StaticWebAssetBasePath>animalmatch</StaticWebAssetBasePath>
+    <StaticWebAssetBasePath></StaticWebAssetBasePath>
   </PropertyGroup>
 
   <ItemGroup>
